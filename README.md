@@ -3,6 +3,7 @@
 
 
 [![6ph1nx1s4's GitHub stats](https://github-readme-stats.vercel.app/api?username=6ph1nx1s4)](https://github.com/6ph1nx1s4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6ph1nx1s4&layout=compact&show_icons=true&theme=radical)]()
 
 ![](https://komarev.com/ghpvc/?username=6ph1nx1s4&color=ff0033)
 ![](https://img.shields.io/github/stars/6ph1nx1s4?color=%23ff0033&style=flat)
